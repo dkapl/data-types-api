@@ -6,7 +6,7 @@ Make sure you have rails installed
 
 Then pull down application
 ```
-git clone https:://github.com/dkapl/rest-data-types && cd rest-data-types
+git clone https:://github.com/dkapl/data-types-api && cd data-types-api
 bundle install
 ```
 
