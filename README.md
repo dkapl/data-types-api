@@ -12,7 +12,7 @@ bundle install
 
 To run tests, run `bundle exec rspec` from the root of the project. 
 
-To start the server, run 'rails server'. You can then CURL against `http://localhost:3000/` or visit `http://localhost:3000/` in the browser. 
+To start the server, run `rails server`. You can then CURL against `http://localhost:3000/` or visit `http://localhost:3000/` in the browser. 
 
 
 In Ruby, please develop a small REST API that yields results of simple calculations and data lookups. 
